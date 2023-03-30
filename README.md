@@ -1,4 +1,3 @@
-![MasterHead](https://careers.dft.gov.uk/wp-content/uploads/2022/10/DVLA-Software-Developer-Blog-Banner-1024x341.png)
 <h1 align="center">Hi 👋, I'm Oriol</h1>
 <h3 align="center">A passionate software developer and student at EPITECH</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
