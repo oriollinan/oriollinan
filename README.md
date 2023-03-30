@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oriol</h1>
 <h3 align="center">A passionate software developer and student at EPITECH</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **expanding my programming skills by learning C, as well as delving into app and web development, and exploring the fascinating field of AI.**
 
