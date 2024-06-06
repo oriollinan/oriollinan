@@ -8,12 +8,12 @@
 </div>
 
 ###
-
+<!-- 
 <img align="right" height="150" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"  />
 
-###
+### -->
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -47,7 +47,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:oriol.linan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -60,6 +60,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/oriollinan/oriollinan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oriollinan/oriollinan/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
