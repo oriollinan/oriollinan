@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Oriol, a Software Engineer</h2>
 
 <p align="center">
-  I build software and enjoy turning ideas into real-world applications. Check out my <a href="https://oriollinan.github.io">website</a>.
+  I build software and enjoy turning ideas into real-world applications. Check out my <a href="https://oriol.linan.io">website</a>.
 </p>
 
 ---
@@ -14,5 +14,5 @@
 ---
 
 <div align="center">
-  <img src="https://oriollinan.github.io/oriollinan/vhs.gif" height="500" />
+  <img src="https://oriollinan-oriol.linan.io/vhs.gif" height="500" />
 </div>
